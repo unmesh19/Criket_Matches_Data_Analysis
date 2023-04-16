@@ -2,7 +2,7 @@
 This project analyzes a dataset of IPL cricket matches to explore various aspects of the game such as team performances, venue choices, and toss decisions.
 
 # Dataset
-The dataset used for this analysis is IPL Matches dataset, which contains information about all IPL matches from 2008 to 2021. The dataset includes information about each match such as the date, venue, teams, toss decisions, winner, player of the match, and umpires.
+The dataset used for this analysis is IPL Matches dataset, which contains information about all IPL matches from 2008 to 2019. The dataset includes information about each match such as the date, venue, teams, toss decisions, winner, player of the match, and umpires.
 
 # Analysis
 The following analysis has been performed on the dataset:
